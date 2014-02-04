@@ -9,7 +9,7 @@
         :target: https://crate.io/packages/{{ cookiecutter.repo_name }}?version=latest
 
 
-{{ cookiecutter.project_short_description}}
+{{ cookiecutter.project_short_description }}
 
 
 Features
